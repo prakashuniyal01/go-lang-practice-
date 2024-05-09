@@ -6,5 +6,5 @@
 ### run for go lang 
 
 ''' 
- go run <file name> 
+ go run" <file name> "
  '''
